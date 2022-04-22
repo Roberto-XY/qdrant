@@ -694,6 +694,7 @@ dependencies = [
  "thiserror",
  "tokio",
  "tonic",
+ "tower",
  "wal",
 ]
 
